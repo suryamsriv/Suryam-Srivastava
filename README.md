@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suryam-Srivastava" alt="Suryam-Srivastava" /></a> </p>
 
-- 🌱 I’m currently learning **Danjo**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **react, java, python**
+- 💬 Ask me about **java**
 
 - ⚡ Fun fact **I think I am an anti-nerd**
 
